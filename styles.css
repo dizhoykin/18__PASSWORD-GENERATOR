@@ -46,6 +46,7 @@ input[type=text] {
   height: 100px;
   margin-bottom: 40px;
   min-width: 140px;
+  cursor: pointer;
 }
 
 .copy svg {
